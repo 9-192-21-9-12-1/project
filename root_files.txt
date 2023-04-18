@@ -1,0 +1,14 @@
+total 20
+drwxr-x--- 1 dmitry dmitry 4096 Apr 16 21:53 .
+drwxr-xr-x 1 root   root   4096 Apr 10 20:19 ..
+-rw------- 1 dmitry dmitry 2124 Apr 12 23:08 .bash_history
+-rw-r--r-- 1 dmitry dmitry  220 Apr 10 20:19 .bash_logout
+-rw-r--r-- 1 dmitry dmitry 3771 Apr 10 20:19 .bashrc
+drwxr-xr-x 1 dmitry dmitry 4096 Apr 11 21:46 .local
+-rw-r--r-- 1 dmitry dmitry    0 Apr 16 21:14 .motd_shown
+-rw-r--r-- 1 dmitry dmitry  807 Apr 10 20:19 .profile
+-rw-r--r-- 1 dmitry dmitry    0 Apr 16 21:53 .sudo_as_admin_successful
+drwxr-xr-x 1 dmitry dmitry 4096 Apr 11 22:29 .vim
+-rw------- 1 dmitry dmitry 7666 Apr 12 22:56 .viminfo
+drwxr-xr-x 1 dmitry dmitry 4096 Apr 12 22:56 project
+-rw-r--r-- 1 dmitry dmitry    0 Apr 16 22:00 root_files.txt
